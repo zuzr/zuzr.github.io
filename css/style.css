@@ -1,0 +1,16 @@
+/*
+
+Don't worry about the syles yet, we will add some pizzazz to it when we learn about css.
+
+This code just gives a certain font to the page and keeps the image at a consistant size
+
+*/
+
+* {
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
